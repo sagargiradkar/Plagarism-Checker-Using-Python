@@ -6,7 +6,7 @@ Plagiarsim checker using cosine algorithm
 ## How to Run?
 
 - Install the requirements using `pip install -r requirements.txt`
-- Run server `python manage.py runserver`
+- Run server `python app.py runserver`
 
 
 
@@ -16,6 +16,6 @@ Plagiarsim checker using cosine algorithm
     <td>Plagiarsim Checker</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/noorkhokhar99/Plagiarsim-Checker/blob/main/Modern%20Minimalist%20Simple%20Technology%20Facebook%20Cover.png"></td>
+    <td><img src=""></td>
   </tr>
  </table>
